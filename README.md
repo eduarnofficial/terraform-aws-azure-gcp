@@ -111,15 +111,13 @@ Train smarter. Build faster. Automate everything.
       <a href="/training/azure/aks-azure-kubernetes-5‑day-professional-training-on-microsoft-cloud" 
       title="AKS + Azure Kubernetes: 5‑Day Professional Training Program">
         ☁️ Microsoft Azure, AKS + Azure Kubernetes: 5‑Day Professional Training Program
-      </a>
-
-
-    <a href="/webinar/terraform-aws-webinar" title="Terraform & AWS Webinar with Quiz">
+      </a> 
+      <a href="/webinar/terraform-aws-webinar" title="Terraform & AWS Webinar with Quiz">
           Terraform & AWS Webinar with Quiz
-    </a>
-    <a href="/training/ai/affordable-one-to-one-ai-training-programs" title="Affordable One-to-One AI Training Programs to Accelerate Your Tech Career">
+      </a>
+      <a href="/training/ai/affordable-one-to-one-ai-training-programs" title="Affordable One-to-One AI Training Programs to Accelerate Your Tech Career">
           Affordable One-to-One AI Training Programs to Accelerate Your Tech Career
-    </a>
+      </a>
     <a href="/training/ai/ai-fundamentals-deployment-with-open-source-tools-25-hours-instructor-led-training" 
     title="AI Fundamentals & Deployment with Open Source Tools – 25 Hours Instructor-Led Training">
           AI Fundamentals & Deployment with Open Source Tools – 25 Hours Instructor-Led Training
