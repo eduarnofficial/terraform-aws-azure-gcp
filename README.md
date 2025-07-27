@@ -1,13 +1,11 @@
 <img width="306" height="166" alt="image" src="https://github.com/user-attachments/assets/8ef84c92-838e-4d80-be73-8b0fe49979ce" />
 
-
-# terraform-aws-azure-gcp
-Reusable Terraform for AWS, Azure, and GCP to automate infrastructure deployment across multi-cloud environments. Supports VPC, compute, storage, IAM, and more. Follows best practices for scalable, secure, and consistent Infrastructure as Code (IaC). www.eduarn.com
-
-
-**Terraform Infrastructure Modules for AWS, Azure & GCP (IaC Labs)**
+**Terraform Infrastructure Modules for AWS, Azure & GCP (IaC Labs) | Eduarn**
 
 Welcome to the Terraform Multi-Cloud Infrastructure Modules repo – a collection of production-ready, reusable **Terraform for AWS, Azure, and Google Cloud Platform (GCP)**. These modules are designed to help DevOps engineers, cloud architects, and learners automate infrastructure provisioning using **Infrastructure as Code (IaC)** principles across all major cloud providers.
+
+Reusable Terraform for AWS, Azure, and GCP to automate infrastructure deployment across multi-cloud environments. Supports VPC, compute, storage, IAM, and more. Follows best practices for scalable, secure, and consistent Infrastructure as Code (IaC). www.eduarn.com
+
 **🛠 What's Included**
 
     ✅ Modular code for VPCs, EC2/VM/GCE, IAM, S3/Blob/GCS, RDS/SQL, and more
