@@ -97,17 +97,11 @@ Train smarter. Build faster. Automate everything.
 
 **Others training:**
     
-    <a href="/training/aws/aws-training-5-powerful-benefits-to-kick-start-your-cloud-career" title="AWS Training: 5 Powerful Benefits to Kick-Start Your Cloud Career">
-          🚀 AWS Training: 5 Powerful Benefits to Kick-Start Your Cloud Career
-    </a>
+    <a href="/training/aws/aws-training-5-powerful-benefits-to-kick-start-your-cloud-career" title="AWS Training: 5 Powerful Benefits to Kick-Start Your Cloud Career">AWS Training: 5 Powerful Benefits to Kick-Start Your Cloud Career</a>
     
-    <a href="/training/aws/aws-weekend-courses-for-women-special-discounts-2025" title="AWS Weekend Courses for Women 2025">
-          🚀 AWS Weekend Courses for Women – Special Discounts 2025
-    </a>
+    <a href="/training/aws/aws-weekend-courses-for-women-special-discounts-2025" title="AWS Weekend Courses for Women 2025">🚀 AWS Weekend Courses for Women – Special Discounts 2025</a>
     
-    <a href="/training/azure/azure-weekend-courses-for-women-special-discounts-2025" title="Azure Weekend Courses for Women 2025">
-        ☁️ Azure Weekend Courses for Women – Special Discounts 2025
-      </a>
+    <a href="/training/azure/azure-weekend-courses-for-women-special-discounts-2025" title="Azure Weekend Courses for Women 2025">☁️ Azure Weekend Courses for Women – Special Discounts 2025</a>
     
     <a href="/training/azure/microsoft-azure-certification-training-courses" title="Microsoft Azure Certification Training Courses From Beginner to Expert?">
         ☁️ Microsoft Azure Certification Training Courses – From Beginner to Expert?
