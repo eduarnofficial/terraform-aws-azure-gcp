@@ -88,9 +88,7 @@ Eduarn offers the best Terraform training at competitive prices, without comprom
 Train smarter. Build faster. Automate everything.
 
 
-🔗 Useful Links
-     
-     https://eduarn.com/training/terraform-aws/best-terraform-aws-labs-2025-instructor-led-iac
+🔗 <a href="https://eduarn.com/training/terraform-aws/best-terraform-aws-labs-2025-instructor-led-iac">Best Terraform + AWS with Labs 2025 - Instructor-Led DevOps Infrastructure Course </a>
 
     🌐 Eduarn – LMS & TMS Platform > www.eduarn.com https://eduarn.com/eduarn-training, https://eduarn.com/eduarn-lms
 
