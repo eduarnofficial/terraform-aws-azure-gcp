@@ -1,3 +1,6 @@
+<img width="306" height="166" alt="image" src="https://github.com/user-attachments/assets/8ef84c92-838e-4d80-be73-8b0fe49979ce" />
+
+
 # terraform-aws-azure-gcp
 Reusable Terraform for AWS, Azure, and GCP to automate infrastructure deployment across multi-cloud environments. Supports VPC, compute, storage, IAM, and more. Follows best practices for scalable, secure, and consistent Infrastructure as Code (IaC). www.eduarn.com
 
