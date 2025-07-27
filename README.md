@@ -5,7 +5,7 @@ Reusable Terraform for AWS, Azure, and GCP to automate infrastructure deployment
 **Terraform Infrastructure Modules for AWS, Azure & GCP (IaC Labs)**
 
 Welcome to the Terraform Multi-Cloud Infrastructure Modules repo – a collection of production-ready, reusable **Terraform for AWS, Azure, and Google Cloud Platform (GCP)**. These modules are designed to help DevOps engineers, cloud architects, and learners automate infrastructure provisioning using **Infrastructure as Code (IaC)** principles across all major cloud providers.
-🛠 What's Included
+**🛠 What's Included**
 
     ✅ Modular code for VPCs, EC2/VM/GCE, IAM, S3/Blob/GCS, RDS/SQL, and more
 
@@ -90,7 +90,7 @@ Train smarter. Build faster. Automate everything.
 
 🔗 Useful Links
      
-     <a href="https://eduarn.com/training/terraform-aws/best-terraform-aws-labs-2025-instructor-led-iac">Terraform AWS Training – Eduarn</a>
+     https://eduarn.com/training/terraform-aws/best-terraform-aws-labs-2025-instructor-led-iac
 
     🌐 Eduarn – LMS & TMS Platform > www.eduarn.com https://eduarn.com/eduarn-training, https://eduarn.com/eduarn-lms
 
