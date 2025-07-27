@@ -95,120 +95,68 @@ Train smarter. Build faster. Automate everything.
     📘 Terraform Docs
 
 
-Others training:
-  <p>
+**Others training:**
     <a href="/training/aws/aws-training-5-powerful-benefits-to-kick-start-your-cloud-career" title="AWS Training: 5 Powerful Benefits to Kick-Start Your Cloud Career">
           🚀 AWS Training: 5 Powerful Benefits to Kick-Start Your Cloud Career
     </a>
-  </p>
-  <p>
     <a href="/training/aws/aws-weekend-courses-for-women-special-discounts-2025" title="AWS Weekend Courses for Women 2025">
           🚀 AWS Weekend Courses for Women – Special Discounts 2025
     </a>
-  </p>
-  <h4><strong>Step Into the Cloud: Azure Training for Career Advancement</strong></h4>
-  <p>
       <a href="/training/azure/azure-weekend-courses-for-women-special-discounts-2025" title="Azure Weekend Courses for Women 2025">
         ☁️ Azure Weekend Courses for Women – Special Discounts 2025
       </a>
-  </p>
-  <p>
       <a href="/training/azure/microsoft-azure-certification-training-courses" title="Microsoft Azure Certification Training Courses From Beginner to Expert?">
         ☁️ Microsoft Azure Certification Training Courses – From Beginner to Expert?
       </a>
-  </p>
-  <p>
       <a href="/training/azure/aks-azure-kubernetes-5‑day-professional-training-on-microsoft-cloud" 
       title="AKS + Azure Kubernetes: 5‑Day Professional Training Program">
         ☁️ Microsoft Azure, AKS + Azure Kubernetes: 5‑Day Professional Training Program
       </a>
-  </p>
 
 
-
-  <h4><strong>Webinar & Offers</strong></h4>
-  <p>
     <a href="/webinar/terraform-aws-webinar" title="Terraform & AWS Webinar with Quiz">
           Terraform & AWS Webinar with Quiz
     </a>
-  </p>
-
-  <h4><strong>Upcoming AI Events, Webinars, and Learning Offers</strong></h4>
-  <p>
     <a href="/training/ai/affordable-one-to-one-ai-training-programs" title="Affordable One-to-One AI Training Programs to Accelerate Your Tech Career">
           Affordable One-to-One AI Training Programs to Accelerate Your Tech Career
     </a>
-  </p>
-  <p>
     <a href="/training/ai/ai-fundamentals-deployment-with-open-source-tools-25-hours-instructor-led-training" 
     title="AI Fundamentals & Deployment with Open Source Tools – 25 Hours Instructor-Led Training">
           AI Fundamentals & Deployment with Open Source Tools – 25 Hours Instructor-Led Training
     </a>
-  </p>
-  
-  <p>
     <a href="/training/ai/python-data-science-and-ai-expert-instructor-led-course" title="Python, Data Science & AI – Live Instructor-Led Course for Professionals & Teams ">
           Python, Data Science & AI – Live Instructor-Led Course for Professionals & Teams 
     </a>
-  </p>
-
-    <p>
     <a href="/training/ai/end-to-end-spam-classifier-train-build-deploy-with-eduarn-ai-learning" 
     title="End-to-End Spam Classifier – Train, Build, and Deploy with Eduarn's AI Training">
           End-to-End Spam Classifier – Train, Build, and Deploy with Eduarn's AI Training
     </a>
-  </p>
-    
-  <h4><strong>DevOps or DevSecTestOps and Cloud</strong></h4>
-  <p>
       <a href="/training/devops/best-devops-tools-for-beginners-2025" title="DevOps Tools for Beginners 2025">
         🛠️ Best DevOps Tools for Beginners – Hands-On Labs 2025
       </a>
-  </p>
-  <p>
       <a href="/training/terraform-aws/best-terraform-aws-labs-2025-instructor-led-iac" title="Terraform AWS Instructor-Led Labs 2025">
         ⚙️ Best Terraform + AWS Labs – Instructor-Led IaC Training 2025
       </a>
-  </p>
-  <p>
       <a href="/training/devops/what-devops-skills-make-you-10x-more-valuable-in-today-tech-world" 
       title="What DevOps Skills Make You 10x More Valuable in Today’s Tech World">
         🛠️ What DevOps Skills Make You 10x More Valuable in Today’s Tech World
       </a>
-  </p>
-  <p>
       <a href="/training/devops/the-no-1-devops-skill-that-will-make-or-break-your-career" 
       title="The #1 DevOps Skill That Will MAKE or BREAK Your Career">
         ⚙️ The #1 DevOps Skill That Will MAKE or BREAK Your Career
       </a>
-  </p>
-  <h4><strong>DevOps Containers Orchestrator Tools</strong></h4>
-  <p>
     <a href="/training/containers-orchestrator/docker-or-podman-with-kubernetes" title="Docker or Podman with Kubernetes – What Should You Use?">
       Docker or Podman with Kubernetes – What Should You Use?
     </a>
-  </p>
-
-  <h4><strong>Data Engineering</strong></h4>
-  <p>
     <a href="/training/data-engineering/secure-databricks-pyspark-course"
     title="Secure Coding for Databricks – SQL & PySpark (Instructor-Led, Hands-On)">
       Secure Coding for Databricks – SQL & PySpark (Instructor-Led, Hands-On)
     </a>
-  </p>
-
-  <h4><strong>OpenTofu Infrastructure as a code (IaC)</strong></h4>
-  <p>
     <a href="/training/opentofu/best-opentofu-aws-labs-instructor-led-iac"
     title="OpenTofu + AWS Fast‑Track Training – 25‑Hour Instructor‑Led DevOps Bootcamp">
       OpenTofu + AWS Fast‑Track Training – 25‑Hour Instructor‑Led DevOps Bootcamp
     </a>
-  </p>  
-
-  <h4><strong> Google Cloud Platform (GCP) and DevOps</strong></h4>
-  <p>
     <a href="/training/gcp/devops-gcp-ansible-terraform-github"
     title="End‑to‑End GCP & DevOps Integration with GitHub, Terraform & Ansible">
       End‑to‑End GCP & DevOps Integration with GitHub, Terraform & Ansible
-    </a>
-  </p>  
+    </a> 
